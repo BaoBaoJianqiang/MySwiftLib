@@ -301,6 +301,7 @@
 				F1484B6A1E9A6BFA000082D7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

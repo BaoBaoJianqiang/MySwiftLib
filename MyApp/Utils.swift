@@ -8,8 +8,8 @@
 
 import Foundation
 
-class Utils {
-    static func writeLog(msg: String) -> () {
+public class Utils {
+    public static func writeLog(msg: String) -> () {
         print(msg)
     }
 }

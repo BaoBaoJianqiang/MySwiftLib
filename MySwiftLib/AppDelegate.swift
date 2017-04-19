@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  MyApp
+//  MySwiftLib
 //
-//  Created by jianqiang on 17/4/9.
+//  Created by jianqiang on 17/4/19.
 //  Copyright © 2017年 jianqiang. All rights reserved.
 //
 
